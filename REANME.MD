@@ -3,7 +3,7 @@
 2. 我的职业时前端开发工程师
 
 # 我的自拍照
-![我的自拍照](user_photo.jpg)
+![我的自拍照](https://github.com/Jumpawaltz/blog-test/blob/master/imgs/user_photo.jpg)
 
 # 我的爱好
 * 唱
