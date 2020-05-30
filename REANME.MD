@@ -8,10 +8,10 @@
 * rap
 
 # 这是我的JavaScript代码
-```javasc
+``` javascript
 var name = zhagnsan
 console("name")
 ```  
 
 # 我的GitHub
-[我的GitHub](https://github.com/Jumpawaltz)
+[我的GitHub](https://github.com/Jumpawaltz)  
